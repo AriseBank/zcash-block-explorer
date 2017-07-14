@@ -3,7 +3,7 @@
 echo "downloading part2"
 echo
 
-wget https://raw.githubusercontent.com/radix42/zcash-block-explorer/master/block-explorer-part2.sh
+wget http://lab.arisebank.com/arisebank/zcash-block-explorer/raw/master/block-explorer-part2.sh
 
 echo "---------------"
 # Install zcash dependencies:
